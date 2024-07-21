@@ -1,2 +1,2 @@
 # Speed-Reader
-A terminal Speed Reader
+A basic terminal Speed Reader
